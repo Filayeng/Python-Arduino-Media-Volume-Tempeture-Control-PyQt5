@@ -10,7 +10,7 @@
 
 >- For serial connection, Arduino must be connected to the computer via usb . <br/>
 
-### Required Softwares
+### Required Softwares and Libraries
 >- [Python3](https://www.python.org/downloads/) <br/>
 >- [Arduino IDE](https://www.arduino.cc/en/software) <br/>
 >- [Pyserial](https://github.com/pyserial/pyserial) <br/>
