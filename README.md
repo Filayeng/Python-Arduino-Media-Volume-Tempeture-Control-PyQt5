@@ -1,4 +1,4 @@
-# Python-Media-Brightness-Tempeture-ControlPyQt5
+# Python-Media-Brightness-Tempeture-Control with PyQt5
 
 <img src="https://live.staticflickr.com/65535/52896639974_d12864622a_h.jpg" alt="thumbnail" class="center">
 
